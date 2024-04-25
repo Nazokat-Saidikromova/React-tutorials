@@ -1,0 +1,18 @@
+.Container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 150px;
+    height: 180px;
+    border-radius: 20px;
+    background-color: white;
+    margin: 20px;
+}
+.title{
+    margin-top: auto;
+}
+
+.photo {
+    width: 120px;
+    height: 100px;
+}
